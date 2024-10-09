@@ -1,0 +1,38 @@
+.page {
+    width: 900px;
+    background-color: aliceblue;
+    padding: 50px;
+    margin: auto;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+.pure-g {
+    height: 400;
+    padding-top: 30px;
+}
+
+.vis-container-1 {
+    width: 680px;
+    height: 400px;
+    padding-left: 60px;
+    padding-right: 0px;
+    padding-top: 20px;
+}
+
+.vis-container-2 {
+    width: 600px;
+    height: 400px;
+}
+
+#d1 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#d2 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
